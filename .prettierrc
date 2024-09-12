@@ -1,0 +1,10 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "singleQuote": false,
+      "printWidth": 120,
+      "endOfLine": "lf"
+    }
+  ]
+}

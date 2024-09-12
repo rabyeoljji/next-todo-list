@@ -1,3 +1,17 @@
 {
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "cSpell.words": [
+    "clsx",
+    "Firestore",
+    "linebreak",
+    "listbox",
+    "messageformat",
+    "nextui",
+    "tailwindcss",
+    "Todos"
+  ]
 }
